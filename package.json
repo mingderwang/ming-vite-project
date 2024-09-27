@@ -11,7 +11,7 @@
   },
   "files": ["dist", "src", "README.md"],
   "dependencies": {
-    "my-simple-vite-app": "0.0.1",
+    "my-simple-vite-app": "0.0.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
